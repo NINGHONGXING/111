@@ -1,5 +1,5 @@
 defaults:
-  - dataset: health931csv
+  - dataset: Health931csv
   - model: bnt # brainnetcnn, fbnetgen, bnt, transformer
   - optimizer: adam
   - training: basic_training
